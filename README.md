@@ -4,7 +4,8 @@ An interactive journey where a Canvas map path is animated according to the cont
 
 Much of the code modified from: http://tympanus.net/Tutorials/StorytellingMap/
 
-Experience can be visited at: www.cameronkruse.github.io
+Experience can be visited at : 
+
 
 
 
