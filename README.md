@@ -4,10 +4,11 @@ An interactive journey where a Canvas map path is animated according to the cont
 
 Much of the code modified from: http://tympanus.net/Tutorials/StorytellingMap/
 
-Experience can be visited at : 
+Experience can be visited at : https://khushboosinhas.github.io/TheHighestRoad/
 
+Developing Credits: Khushboo, Cameron
 
-
+Content Credits: Cameron, Khushboo, Rachel, Caleb, William 
 
 
 
